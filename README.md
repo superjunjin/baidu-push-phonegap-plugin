@@ -37,6 +37,9 @@
      传递数据给index.html
      
 （4）关于传递的数据
+     
      title：通知标题
+     
      description：通知内容
+     
      value：自定义键值对的值（在发送通知推送的高级设置中，自定义设置的键在MyPushMessageReceiver的onNotificationClicked方法中）
