@@ -1,6 +1,16 @@
-# baidu-push-phonegap-plugin
-百度推送的phonegap插件
+# baidu-push-phonegap-plugin 
+# 百度推送的phonegap插件
+# 使用
+1，拷贝src www文件夹，package.json plugin.xml文件，到com.cmpsoft.mobile.plugin.pushnotification文件夹
 
+2，拷贝com.cmpsoft.mobile.plugin.pushnotification文件夹到cordova项目的plugins文件夹
+
+3，cordova platforms add android 添加安卓环境
+
+4，cordova build android 生成apk
+
+
+# 说明
 1，参考自 极光推送插件 https://github.com/jpush/jpush-phonegap-plugin（广播接收器处理消息部分）
           
           另一个插件 https://github.com/linglong117/com.cmpsoft.mobile.plugin.pushnotification（初始化注册，接收消息部分）
