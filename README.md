@@ -5,6 +5,8 @@
 
 2，拷贝com.cmpsoft.mobile.plugin.pushnotification文件夹到cordova项目的plugins文件夹
 
+3，修改plugin.xml文件中的api_key的value值为自己应用的
+
 3，cordova platforms add android 添加安卓环境
 
 4，cordova build android 生成apk
