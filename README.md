@@ -1,4 +1,4 @@
-# baidu-push-phonegap-plugin 111
+# baidu-push-phonegap-plugin 
 # 百度推送的phonegap插件
 # 使用
 1，拷贝src www文件夹，package.json plugin.xml文件，到com.cmpsoft.mobile.plugin.pushnotification文件夹
